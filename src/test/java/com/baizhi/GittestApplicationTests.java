@@ -11,6 +11,7 @@ public class GittestApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("=====");
     }
 
 }
